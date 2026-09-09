@@ -1,0 +1,4 @@
+Change Component Comment : Designator=C15 Old Comment=100n New Comment=10n
+Added Pin To Net: NetName=+3V3 Pin=C15-2
+Added Pin To Net: NetName=GND Pin=U2-18
+Added Pin To Net: NetName=GND Pin=U2-25

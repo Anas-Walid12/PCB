@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=+3V3 Pin=C16-2
+Removed Pin From Net: NetName=IMU REGOUT Pin=U2-10
+Change Net Name : Old Net Name=IMU REGOUT New Net Name=NetC15_2
+Added Pin To Net: NetName=IMU_REGOUT Pin=C16-2
+Added Pin To Net: NetName=IMU_REGOUT Pin=U2-10
+Added Net: Name=IMU_REGOUT

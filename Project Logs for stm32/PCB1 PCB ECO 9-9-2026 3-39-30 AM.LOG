@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=NetC10_1 Pin=C14-1
+Removed Pin From Net: NetName=NetC10_1 Pin=C15-1
+Removed Pin From Net: NetName=NetC10_1 Pin=C16-1
+Removed Pin From Net: NetName=NetC10_1 Pin=C17-1
+Removed Pin From Net: NetName=NetC10_1 Pin=U2-18
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=IMU REGOUT Pin=U2-18
+Added Pin To Net: NetName=IMU REGOUT Pin=U2-25
+Change Net Name : Old Net Name=NetC17_2 New Net Name=IMU_CPOUT
